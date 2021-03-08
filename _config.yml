@@ -20,7 +20,9 @@ title: Junga12                          # the main title
 tagline:  자유롭게!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  자유롭게 올리고 싶은 글
+  A minimal, portfolio, sidebar,
+  bootstrap Jekyll theme with responsive web design
+  and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://junga12.github.io'
