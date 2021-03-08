@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 # --------------------------
 title: Junga12                          # the main title
 
-tagline:    # it will display as the sub-title
+tagline:  자유롭게!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   자유롭게 올리고 싶은 글
