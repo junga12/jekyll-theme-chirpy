@@ -3,7 +3,7 @@ title: python static method
 author: Junga Park
 date: 2021-03-11 12:00:00 +0800
 categories: [., python]
-tags: [python, @staticmehtod, @classmethod]
+tags: [python, staticmehtod, classmethod]
 ---
 
 
